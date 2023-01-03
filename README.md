@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello, I'm Felippe Dager!👋
 
-Hello, I'm Felippe Dager!👋
-🔭 I’m currently studying on Universidade Veiga de Almeida
-
-🌱 I’m currently learning Python, SQL and Bussiness
+- 🔭 I’m currently studying on Veiga de Almeida
+- 🌱 I’m currently learning Python, SQL and Bussiness
+- 👯 I’m looking to collaborate on a project that makes me feel part of something bigger
 
 <!--
 **felippedager/felippedager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
