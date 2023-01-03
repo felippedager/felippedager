@@ -2,6 +2,7 @@
 
 Hello, I'm Felippe Dager!👋
 🔭 I’m currently studying on Universidade Veiga de Almeida
+
 🌱 I’m currently learning Python, SQL and Bussiness
 
 <!--
