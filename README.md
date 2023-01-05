@@ -1,6 +1,6 @@
 ### Hello, I'm Felippe Dager!👋
 
-- 🔭 I’m currently studying on Veiga de Almeida
+- 🔭 I’m currently studying on Universidade Veiga de Almeida
 - 🌱 I’m currently learning Python, SQL and Bussiness
 - 👯 I’m looking to collaborate on a project that makes me feel part of something bigger
 
