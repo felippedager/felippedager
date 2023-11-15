@@ -1,9 +1,13 @@
-### Hello, I'm Felippe Dager!👋
+<h1 align="center">Hi 👋, I'm Felippe Dager</h1>
+<h3 align="center">Computer engineering student from Brazil</h3>
 
 - 🔭 I’m currently studying on Universidade Veiga de Almeida
 - 🌱 I’m currently learning Python, SQL and Bussiness
 - 👯 I’m looking to collaborate on a project that makes me feel part of something bigger
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felippedager&show_icons=true&theme=dracula&locale=en&layout=compact" alt="felippedager" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felippedager&show_icons=true&theme=dracula&locale=en" alt="felippedager" /></p>
 <!--
 **felippedager/felippedager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
